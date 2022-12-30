@@ -3,7 +3,7 @@
 % TCYB--Locally Weighted Ensemble Clustering
 
 clear;clc
-dataName = 'Ecoli';
+dataName = 'Ecoli'; % You can switch to other datasets
 M = 20; % Ensemble size
 cntTimes = 20; % How many times will be run.
 alpha = 0.75;
